@@ -1,5 +1,6 @@
-/*Name : SERUNKUUMA ABDUL MUSWAWIR*/
-/*Reg number : 25/U/BIE/01421/PE*/
+/*Name: SERUNKUUMA ABDUL MUSWAWIR*/
+/*Student Number: 25/U/BIE/01421/PE*/
+
 
 #include <stdio.h>
 
